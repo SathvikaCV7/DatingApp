@@ -141,3 +141,6 @@ C:\Users\SCS\source\repos\DatingApp\API\obj\Debug\net8.0\refint\API.dll
 C:\Users\SCS\source\repos\DatingApp\API\obj\Debug\net8.0\API.pdb
 C:\Users\SCS\source\repos\DatingApp\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\SCS\source\repos\DatingApp\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\SCS\source\repos\DatingApp\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\SCS\source\repos\DatingApp\API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\SCS\source\repos\DatingApp\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
